@@ -8,7 +8,7 @@ namespace app{
     class Program{
         static void Main(){
             Console.writeLine("Olá mundo");// imprimir informação na tela
-
+            Console.ReadLine();
         }
     }
 }
